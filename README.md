@@ -1,4 +1,3 @@
-# Capstone
-IBM Data Science Capstone
+# IBM Data Science Professional Certification
 
-This repository is for updating the jupyter notebooks.
+In this repository you will find some Notebooks done during the certification above; most of them related to the final capstone.
